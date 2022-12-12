@@ -7,4 +7,4 @@ my man
 deployement 5 master
 
 deployement
-
+getat
